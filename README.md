@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanaa98
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me dhananjayamudunkotuwa1998@gmail.com 
 - 💻 View my projects https://dhanaa98.github.io/Dhananjaya-Portfolio.github.io/
 
