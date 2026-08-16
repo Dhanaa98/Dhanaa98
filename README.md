@@ -8,9 +8,9 @@
 
 </div>
 
-Data Scientist working across machine learning, predictive analytics, and business intelligence — from classical models to NLP and time-series forecasting. I build systems that turn raw data into decisions people actually act on.
+Data Scientist working across machine learning, predictive analytics, and business intelligence - from classical models to NLP and time-series forecasting. I build systems that turn raw data into decisions people actually act on.
 
-- 🔭 Building and evaluating machine learning models — classification, regression, NLP, and time-series forecasting — across real-world datasets
+- 🔭 Building and evaluating machine learning models - classification, regression, NLP, and time-series forecasting - across real-world datasets
 - 🌱 Deepening my grasp of deep learning and transformer-based NLP, alongside classical ML
 - 🌐 Portfolio: [dhananjaya-mudunkotuwa.vercel.app](https://dhananjaya-mudunkotuwa.vercel.app/)
 - 📫 Reach me: [dhananjayamudunkotuwa1998@gmail.com](mailto:dhananjayamudunkotuwa1998@gmail.com)
