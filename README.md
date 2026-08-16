@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0c1012,100:3fb8bd&height=160&section=header&text=Dhananjaya%20Mudunkotuwa&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0c1012,100:3fb8bd&height=160&section=header&text=Dhananjaya%20Mudunkotuwa&fontSize=34&fontColor=ffffff&fontAlignY=38)
 
 <a href="https://dhananjaya-mudunkotuwa.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3FB8BD&center=true&vCenter=true&width=520&lines=Data+Scientist;Machine+Learning+Engineer;BI+Developer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=3FB8BD&center=true&vCenter=true&width=520&lines=Data+Scientist;Machine+Learning+Engineer;BI+Developer;Automation+Specialist" alt="Typing SVG" />
 </a>
 
 </div>
@@ -57,12 +57,14 @@ Data Scientist working across machine learning, predictive analytics, and busine
 ### GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanaa98&show_icons=true&theme=dark&hide_border=true&bg_color=0c1012&title_color=3fb8bd&icon_color=3fb8bd&text_color=e2ebec" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaa98&layout=compact&theme=dark&hide_border=true&bg_color=0c1012&title_color=3fb8bd&text_color=e2ebec" />
+<img src="https://streak-stats.demolab.com?user=Dhanaa98&theme=dark&hide_border=true&background=0c1012&ring=3fb8bd&fire=3fb8bd&currStreakLabel=3fb8bd" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanaa98&theme=dark&hide_border=true&background=0c1012&ring=3fb8bd&fire=3fb8bd&currStreakLabel=3fb8bd" />
+
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=177075&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhanaa98)
+![Followers](https://img.shields.io/github/followers/Dhanaa98?style=for-the-badge&color=177075&logo=github&logoColor=white&label=Followers)
+
 </div>
 
 ### Connect
