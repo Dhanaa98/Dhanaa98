@@ -57,10 +57,6 @@ Data Scientist working across machine learning, predictive analytics, and busine
 ### GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Dhanaa98&theme=dark&hide_border=true&background=0c1012&ring=3fb8bd&fire=3fb8bd&currStreakLabel=3fb8bd" />
-</div>
-
-<div align="center">
 
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=177075&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhanaa98)
 ![Followers](https://img.shields.io/github/followers/Dhanaa98?style=for-the-badge&color=177075&logo=github&logoColor=white&label=Followers)
